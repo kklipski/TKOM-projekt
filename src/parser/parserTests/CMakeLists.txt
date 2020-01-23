@@ -1,0 +1,4 @@
+set(SOURCES
+  "${CMAKE_CURRENT_SOURCE_DIR}/pch.h"
+  "${CMAKE_CURRENT_SOURCE_DIR}/pch.cpp"
+)
